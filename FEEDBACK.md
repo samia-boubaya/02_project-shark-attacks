@@ -6,6 +6,8 @@
 - Love the repo folder organization and the names for the interim data files!!! Chapeau!    
 - Also love how organized the Jupyter notebook is :heart-eyes:. That's a work of art!  
 - Like that you used a GDrive link to make sure you all worked with the same raw data but using the same relative path, i.e. `pd.read_csv("../data/raw.csv")` would have achieved the same result!  
+- Really thorough, clean, and well-organized data cleaning, colour me impressed with your performance!! 
+(there is a meme reference which I'm offerring as a well-done, from the kickboxing world: [A Canadian boxer trying to talk smack](https://www.youtube.com/shorts/RdoFCWhiL9g))
 
 ### To fix / improve on:
 - Stay consistent with the separators you use in titles, choose either "_" or "-"      
