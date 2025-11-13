@@ -1,0 +1,33 @@
+Item,Category,Unit,Qty_per_severe_case,Qty_per_minor_case,Suggested_stock_20_incidents_per_year,Reorder_threshold,Notes
+"Tourniquet (commercial, reusable/single-use)",Hemorrhage control,each,2,0,40,10,"CE-marked / widely used models (e.g., CAT, SOF-T)."
+Hemostatic dressing (kaolin/zeolite),Hemorrhage control,pack,4,0,80,20,QuikClot or equivalent; for junctional/extremity bleeding.
+Trauma dressing (Combined ABD dressing),Wound care,each,4,2,120,30,10x20 cm or larger.
+Sterile gauze (10x10 cm),Wound care,pack (12),6,2,240,50,Use for packing and dressing.
+Sterile saline 0.9% (500 mL),Fluids / irrigation,bottle,4,1,180,40,For wound irrigation and IV fluids.
+IV cannula (18G),IV access,each,2,1,60,20,18G for rapid resuscitation.
+IV cannula (20G),IV access,each,1,1,40,15,
+IV giving set (macrodrip),IV access,each,2,1,60,20,
+Blood transfusion set & filters,Transfusion,each,2,0,40,10,For packed red blood cells; include filters.
+Packed Red Blood Cells (units),Transfusion,unit,4,0,80,20,Estimate — depends on facility blood bank and regional availability.
+Tranexamic acid (IV) 1 g ampoule,Hemostatic medication,ampoule,2,0,80,20,Use within 3 hours for traumatic bleeding.
+Analgesic: Morphine 10 mg/ml ampoule,Analgesia,ampoule,2,1,60,15,
+Analgesic: Ketorolac 30 mg/ml ampoule,Analgesia/NSAID,ampoule,1,1,40,10,
+Antibiotic: Ceftriaxone 1 g vial (IV),Antibiotics,vial,2,0,80,20,Broad-spectrum initial coverage; follow local guidelines.
+Antibiotic: Doxycycline OR alternative (oral/IV),Antibiotics,course (10 tabs),1,0,20,5,For marine-borne pathogens—follow local microbiology.
+Tetanus toxoid / booster,Immunisation,dose,1,1,40,10,Per local immunization schedule.
+Local anesthetic: Lidocaine 1% 20 ml,Local anaesthetic,ampoule,4,2,160,40,
+"Suture pack (assorted sizes, absorbable/non-absorbable)",Suturing,pack,2,1,60,15,"Include 2-0, 3-0, 4-0 nylon/prolene and absorbable for deep layers."
+Staples & staple remover,Suturing/closure,set,1,0,20,5,
+"Skin glue (e.g., Dermabond)",Closure,tube,1,0,20,5,
+Surgical dressing packs (sterile drape + instruments),Minor OR supplies,pack,1,0,20,5,
+Sterile gloves (sizes S/M/L),PPE,box (50),2,1,120,30,
+Sterile gowns & masks,PPE,each,4,2,120,30,
+Trauma shears,Tools,each,1,1,20,5,
+Portable suction device + tubing,Airway / fluids,each,1,0,2,1,
+Wound irrigation syringe (60 ml),Wound care,each,4,2,120,30,
+Antiseptic solution (povidone-iodine/chlorhexidine),Wound care,bottle,2,1,60,15,
+Negative pressure wound therapy dressings (optional),Advanced wound care,kit,0.5,0,10,2,For severe contaminated wounds; optional for district hospitals.
+Occlusive dressings & adhesive film,Wound care,each,2,1,60,15,
+Cold packs / warming blankets,Supportive care,each,2,1,60,10,Hypothermia & pain control management.
+"Basic lab consumables (blood tubes, crossmatch tubes)",Lab / transfusion,set,1,0,40,10,
+Finger pulse oximeters / portable monitors,Monitoring,each,1,1,10,2,
