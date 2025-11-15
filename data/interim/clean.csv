@@ -1,0 +1,433 @@
+country,sex,age,injury,fatal y/n,injury_type,injury_severity,injury severity,mm,yyyy,severity,injury_type
+Australia,M,44,Severe injuries to lower limbs,N,Unspecified,Severe Injury,Unknown,Aug,2023,Severe Injury,Unspecified
+Bahamas,M,25,Body found with shark bites. Possible drowning. Cause of Death Unknown,Y,Unspecified,Death,Death,Aug,2023,Death,Unspecified
+Bahamas,F,73,Calf severely bitten,N,Leg Injury,Severe Injury,Severe injury,Jun,2023,Severe Injury,Leg Injury
+Seychelles,M,6,Left foot bitten,N,Foot Injury,Uncertain,Minor injury,Mar,2023,Uncertain,Foot Injury
+Argentina,M,32,Death by misadventure,Y,Unspecified,Death,Death,Feb,2023,Death,Unspecified
+Costa Rica,F,50,Right forearm and left hand injured,N,Arm Injury,Uncertain,Unknown,Feb,2022,Uncertain,Arm Injury
+Brazil,M,11,Minor cuts to left thigh,N,Leg Injury,Minor Injury,Minor injury,Nov,2021,Minor Injury,Leg Injury
+Australia,M,26,Disappeared,N,Unspecified,Uncertain,Unknown,Oct,2021,Uncertain,Unspecified
+Egypt,M,26,Laceration to arm caused by metal object,N,Arm Injury,Minor Injury,Minor injury,Sep,2021,Minor Injury,Arm Injury
+Australia,F,26,,N,Unspecified,Unknown,Unknown,Jun,2020,Unknown,Unspecified
+French Polynesia,F,35,Severe injuries to arms and chest,N,Arm Injury,Severe Injury,Unknown,Oct,2019,Severe Injury,Arm Injury
+Australia,F,26,Lacerations to lower leg,N,Leg Injury,Minor Injury,Minor injury,Jul,2019,Minor Injury,Leg Injury
+Bahamas,M,50,Injuries to left lower leg,N,Leg Injury,Uncertain,Unknown,Jun,2019,Uncertain,Leg Injury
+USA,F,26,Single laceration to right thigh inconsistent with shark bite,N,Leg Injury,Minor Injury,Minor injury,Jul,2018,Minor Injury,Leg Injury
+Colombia,M,62,"Autopsy confirmed death by drowning, shark bite were post-mortem",Y,Unspecified,Death,Death,Jul,2018,Death,Unspecified
+Brazil,M,34,"Multiple severe injuries to arms and leg, leg subsequently surgically amputated",N,Leg Injury,Severe Injury,Unknown,Apr,2018,Severe Injury,Leg Injury
+South Africa,M,31,"FATAL, but death was probably due to drowning",Y,Unspecified,Death,Death,Oct,2017,Death,Unspecified
+USA,M,33,"Lacerations to right ankle, foot & toe",N,Leg Injury,Minor Injury,Minor injury,Sep,2017,Minor Injury,Leg Injury
+South Africa,M,25,"FATAL, but death was probably due to drowning",Y,Unspecified,Death,Death,Sep,2017,Death,Unspecified
+Spain,F,11,Lacerations to left foot,N,Foot Injury,Minor Injury,Minor injury,Aug,2017,Minor Injury,Foot Injury
+USA,M,10,Abrasions and cuts to sole of foot,N,Foot Injury,Minor Injury,Minor injury,Jul,2017,Minor Injury,Foot Injury
+USA,F,8,Foot injured,N,Foot Injury,Uncertain,Unknown,Jul,2017,Uncertain,Foot Injury
+USA,M,26,"Arm injured by hook, not by a shark",N,Arm Injury,Uncertain,Unknown,Jun,2017,Uncertain,Arm Injury
+USA,F,18,"Laceration to thigh, likely caused by surfboard fin",N,Leg Injury,Minor Injury,Minor injury,May,2017,Minor Injury,Leg Injury
+USA,F,26,Alleged laceration to left ankle,N,Leg Injury,Minor Injury,Minor injury,Apr,2017,Minor Injury,Leg Injury
+USA,M,26,Laceration & puncture wounds to left foot,N,Foot Injury,Minor Injury,Minor injury,Apr,2017,Minor Injury,Foot Injury
+South Africa,M,68,"Fatal, coroner unable to determine if the diver was alive or had drowned when incident took place.",Y,Unspecified,Death,Death,Apr,2017,Death,Unspecified
+Australia,M,35,"No attack, shark made a threat display",N,Unspecified,Uncertain,Unknown,Jan,2017,Uncertain,Unspecified
+Australia,M,20,Minor injuries to foot & toes,N,Foot Injury,Minor Injury,Unknown,Jan,2017,Minor Injury,Foot Injury
+USA,M,19,Cuts to right ankle & foot,N,Leg Injury,Minor Injury,Minor injury,Dec,2016,Minor Injury,Leg Injury
+Mexico,M,26,"Shark breached cage, no injury to diver",N,Unspecified,No Injury,No injury,Oct,2016,No Injury,Unspecified
+USA,M,27,"No injury, board damaged",N,Unspecified,No Injury,No injury,Jun,2016,No Injury,Unspecified
+Australia,M,26,"No injury, but sharks repeatedly hit their fins and guns",N,Unspecified,No Injury,No injury,Jun,2016,No Injury,Unspecified
+Cape Verde,M,60,"""Serious""",N,Unspecified,Uncertain,Unknown,Apr,2016,Uncertain,Unspecified
+USA,M,26,Fell off board when spinner shark leapt from the water next to him. No injury to surfer,N,Unspecified,No Injury,No injury,Apr,2016,No Injury,Unspecified
+USA,M,15,Minor injury to arm. Possibly caused by smalll nurse shark,N,Arm Injury,Minor Injury,Unknown,Mar,2016,Minor Injury,Arm Injury
+Cayman Islands,M,65,Minor injury to wrist from Southern stingray,N,Unspecified,Minor Injury,Unknown,Feb,2016,Minor Injury,Unspecified
+Australia,M,26,"No injury, knocked off board",N,Unspecified,No Injury,No injury,Feb,2016,No Injury,Unspecified
+USA,F,9,Lower left leg injured,N,Leg Injury,Uncertain,Unknown,Nov,2015,Uncertain,Leg Injury
+USA,M,32,Left foot bitten by eel,N,Foot Injury,Uncertain,Minor injury,Oct,2015,Uncertain,Foot Injury
+USA,M,26,Wound to right lower leg,N,Leg Injury,Uncertain,Unknown,Aug,2015,Uncertain,Leg Injury
+Spain,M,10,Minor injury when he attempted to touch a fish. ,N,Unspecified,Minor Injury,Unknown,Aug,2015,Minor Injury,Unspecified
+Australia,M,40,Injury to hand,N,Hand Injury,Uncertain,Unknown,Jul,2015,Uncertain,Hand Injury
+USA,F,35,"2' cut to dorsum of foot, 2 puncture wounds to sole",N,Foot Injury,Minor Injury,Unknown,Jul,2015,Minor Injury,Foot Injury
+USA,M,39,Laceration to back,N,Back Injury,Minor Injury,Minor injury,Jul,2015,Minor Injury,Back Injury
+French Polynesia,M,26,Parallel lacerations to torso inconsistent with shark bite,N,Torso Injury,Minor Injury,Minor injury,Jul,2015,Minor Injury,Torso Injury
+USA,F,26,Minor lacerations to leg,N,Leg Injury,Minor Injury,Minor injury,Jun,2015,Minor Injury,Leg Injury
+Italy,M,43,"FATAL, but shark involvement prior to death unconfirmed",Y,Unspecified,Death,Death,Mar,2015,Death,Unspecified
+Brazil,M,23,Injury to left thigh from unidentified species of fish; injuries inconsistent with shark bite,N,Leg Injury,Minor Injury,Minor injury,Mar,2015,Uncertain,Leg Injury
+Australia,F,26,Board snapped in two,N,Unspecified,Uncertain,Unknown,Jan,2015,Uncertain,Unspecified
+USA,M,38,"During his 16-hour swim to shore, he was circled by a shark but it did not injure him",N,Unspecified,Uncertain,Unknown,Jan,2015,Uncertain,Unspecified
+USA,M,26,"A hoax, no shark involvement",N,Unspecified,Uncertain,Unknown,Sep,2014,Uncertain,Unspecified
+Bahamas,M,63,"Missing after a dive, shark involvement considered probable, but not confirmed",N,Unspecified,Uncertain,Unknown,Jul,2014,Uncertain,Unspecified
+USA,M,26,"No injury. No attack. 12' white shark appeared curious, not aggressive & departed when prodded by spear",N,Unspecified,No Injury,No injury,May,2014,No Injury,Unspecified
+Australia,M,38,Shark bites may have been post mortem,N,Unspecified,Minor Injury,Minor injury,Mar,2014,Uncertain,Unspecified
+Australia,F,10,"Injuries to wrist/hand by a mackerel, not a shark",N,Hand Injury,Uncertain,Unknown,Mar,2014,Uncertain,Hand Injury
+Cayman Islands,M,26,"Caribbean reef shark buzzed him. No injury, no attack. ",N,Unspecified,No Injury,No injury,Mar,2014,No Injury,Unspecified
+USA,F,47,"Puncture wound to torso. Reported as a bite by a leopard shark, the tooth fragment appears to be that of a bony fish",N,Torso Injury,Minor Injury,Minor injury,Aug,2013,Uncertain,Torso Injury
+Spain,M,48,"Scrape to right forearm. Frennet says inflicted by a blue shark, but authorities question shark involvement",N,Arm Injury,Uncertain,Unknown,Jul,2013,Uncertain,Arm Injury
+Jamaica,M,20,Probable drowning with post-mortem bites,N,Unspecified,Minor Injury,Minor injury,Jun,2013,Death,Unspecified
+USA,M,42,Shark bites were post-mortem,N,Unspecified,Minor Injury,Minor injury,May,2013,Uncertain,Unspecified
+Australia,M,24,Disappeared. No evidence that he was taken by a shark,N,Unspecified,Uncertain,Unknown,Apr,2013,Uncertain,Unspecified
+Australia,M,47,Never happened; it was a  hoax,N,Unspecified,Uncertain,Unknown,Mar,2013,Uncertain,Unspecified
+Australia,M,62,"No injury, a 3 m blue shark merely snapped at the man.",N,Unspecified,No Injury,No injury,Jan,2013,No Injury,Unspecified
+Australia,M,20,"Injury to ankle caused  by a stingray, not a shark",N,Leg Injury,Uncertain,Unknown,Nov,2012,Uncertain,Leg Injury
+USA,M,26,Laceration to toe,N,Foot Injury,Minor Injury,Minor injury,Oct,2012,Minor Injury,Foot Injury
+USA,M,12,Shark involvement unconfirmed,N,Unspecified,Uncertain,Unknown,Jul,2012,Uncertain,Unspecified
+Trinidad & Tobago,M,24,Probable drowning with post-mortem bite,N,Unspecified,Minor Injury,Minor injury,Jul,2012,Death,Unspecified
+Canada,F,23,"Lacerations to 2 fingers, but shark involvement unconfirmed",N,Hand Injury,Minor Injury,Minor injury,Jul,2012,Minor Injury,Hand Injury
+Australia,F,42,Cause of death was drowning & preceded shark involvement,Y,Unspecified,Death,Death,Jul,2012,Death,Unspecified
+USA,M,16,"Laceration to foot. Injured by a stingray, not a shark",N,Foot Injury,Minor Injury,Minor injury,Jun,2012,Minor Injury,Foot Injury
+Saudi Arabia,M,42,Harassed by sharks but not injured by them,N,Unspecified,Uncertain,No injury,Mar,2012,No Injury,Unspecified
+Antigua,M,26,Bitten on right hand & wrist,N,Hand Injury,Uncertain,Minor injury,Dec,2011,Uncertain,Hand Injury
+South Africa,M,26,"No injury, ski damaged",N,Unspecified,No Injury,No injury,Dec,2011,No Injury,Unspecified
+USA,M,27,Lacerations to lower right leg ,N,Leg Injury,Minor Injury,Minor injury,Sep,2011,Minor Injury,Leg Injury
+Australia,M,48,FATAL,Y,Unspecified,Death,Death,Aug,2011,Death,Unspecified
+USA,M,12,Abrasions to left hand,N,Hand Injury,Uncertain,Unknown,Aug,2011,Minor Injury,Hand Injury
+Brazil,M,14,Cause of death may have been drowning; remains scavenged by sharks,Y,Unspecified,Death,Death,Jul,2011,Death,Unspecified
+UAE,M,43,"Erroneously reported on several internet sites as a ""shark attack"", it was the shark 8', 300-kg mako shark that was attacked, not the fisherman",N,Multiple Injuries,Severe Injury,Unknown,May,2011,Uncertain,Multiple Injuries
+Egypt,F,26,"Apparent drowning, and subsequent scavenging by 16' tiger shark",N,Unspecified,Uncertain,Unknown,Mar,2010,Uncertain,Unspecified
+Australia,F,7,Lacerations to both legs,N,Leg Injury,Minor Injury,Minor injury,Jan,2011,Minor Injury,Leg Injury
+Australia,M,26,Death may have been due to drowning,Y,Unspecified,Death,Death,Nov,2010,Death,Unspecified
+Bahamas,M,43,"His partial remains were recovered from a 12' tiger shark on September 5, 2010. Cause of death was thought to be drowning",Y,Unspecified,Death,Death,Aug,2010,Death,Unspecified
+USA,F,26,Minor abrasions to legs when she was lifted on the back of a large marine animal,N,Leg Injury,Minor Injury,Unknown,Aug,2010,Minor Injury,Leg Injury
+Guam,M,31,Shark bites were post-mortem,N,Unspecified,Minor Injury,Minor injury,Feb,2010,Uncertain,Unspecified
+South Africa,M,26,"Minor lacerations to left leg. nitially reported as a shark bite, but involved a barracuda",N,Leg Injury,Minor Injury,Minor injury,Dec,2009,Minor Injury,Leg Injury
+USA,M,49,Puncture wounds to right foot,N,Foot Injury,Uncertain,Unknown,Nov,2009,Uncertain,Foot Injury
+Nevis,M,26,Death was due to drowning. Two days later his remains were recovered from a 12' tiger shark,Y,Unspecified,Death,Death,Sep,2009,Death,Unspecified
+Spain,F,11,Laceration to left foot,N,Foot Injury,Minor Injury,Minor injury,Jul,2009,Minor Injury,Foot Injury
+USA,M,26,Puncture wounds to foot,N,Foot Injury,Uncertain,Unknown,Jun,2009,Uncertain,Foot Injury
+USA,M,14,2-inch laceration to upper left arm,N,Arm Injury,Minor Injury,Minor injury,Jun,2009,Minor Injury,Arm Injury
+USA,M,49,Missing,N,Unspecified,Uncertain,Unknown,Apr,2009,Uncertain,Unspecified
+South Africa,M,24,Body not recovered,N,Unspecified,Uncertain,Unknown,Apr,2009,Death,Unspecified
+Brazil,M,17,Probable drowning with post-mortem bites,N,Unspecified,Minor Injury,Minor injury,Jan,2009,Death,Unspecified
+Brazil,M,17,"Drowned, body scavenged by shark",N,Unspecified,Uncertain,Unknown,Jan,2009,Uncertain,Unspecified
+USA,M,27,Death was probably due to drowning,Y,Unspecified,Death,Death,Aug,2008,Death,Unspecified
+USA,F,20,Calf bitten,N,Leg Injury,Uncertain,Minor injury,Aug,2008,Uncertain,Leg Injury
+USA,M,7,Minor injuries,N,Unspecified,Minor Injury,Unknown,Aug,2008,Minor Injury,Unspecified
+USA,M,52,"Bruises, abrasions and some spinal and nerve damage when collided with marine animal, possibly a shark or dolphin.",N,Unspecified,Uncertain,Unknown,Jul,2008,Minor Injury,Unspecified
+USA,M,53,Probable drowning with post-mortem bites,N,Unspecified,Minor Injury,Minor injury,Jun,2008,Death,Unspecified
+South Africa,M,26,"As he pushd the shark away from his camera, his finger was cut on a tooth",N,Hand Injury,Minor Injury,Unknown,Apr,2008,Minor Injury,Hand Injury
+Mexico,M,32,Probable drowning with post-mortem bites,N,Unspecified,Minor Injury,Minor injury,Apr,2008,Death,Unspecified
+Australia,M,19,2 puncture wounds to leg,N,Leg Injury,Uncertain,Unknown,Apr,2008,Uncertain,Leg Injury
+New Zealand,M,26,"Stingray envenomation, not a shark",N,Unspecified,Uncertain,Unknown,Jan,2008,Uncertain,Unspecified
+British Virgin Islands,M,53,Shark bites were post-mortem,N,Unspecified,Minor Injury,Minor injury,Dec,2007,Uncertain,Unspecified
+Australia,M,34,Lacerations to left forearm,N,Arm Injury,Minor Injury,Minor injury,Dec,2007,Minor Injury,Arm Injury
+Mexico,M,26,White shark breached cage. No injury to occupants,N,Unspecified,No Injury,No injury,November,2011,No Injury,Unspecified
+USA,F,26,Shark involvement prior to death unconfirmed,Y,Unspecified,Death,Death,Sep,2007,Death,Unspecified
+USA,F,43,Foot injured. Shark involvment uncomfirmed,N,Foot Injury,Uncertain,Unknown,Jul,2007,Uncertain,Foot Injury
+USA,F,9,Superficial injuries to upper leg may have been caused by surfboard fin,N,Leg Injury,Uncertain,Unknown,Jun,2007,Uncertain,Leg Injury
+Australia,M,45,Shark involvement prior to death unconfirmed,Y,Unspecified,Death,Death,May,2007,Death,Unspecified
+Costa Rica,M,36,Death due to drowning. Shark bite may have been postmortem,Y,Unspecified,Death,Death,Feb,2007,Death,Unspecified
+Australia,M,20,Shark involvement prior to death unconfirmed,Y,Unspecified,Death,Death,Jan,2007,Death,Unspecified
+USA,M,54,No injury,N,Unspecified,No Injury,No injury,Jan,2007,No Injury,Unspecified
+South Africa,M,36,No injury; 4m white shark made a threat display,N,Unspecified,No Injury,No injury,Sep,2006,No Injury,Unspecified
+Australia,M,44,"Killed by a stingray, not a shark - a tragedy for his family and marine wildlife",N,Unspecified,Uncertain,Unknown,Sep,2006,Uncertain,Unspecified
+Brazil,M,17,Shark bites may have been post mortem,N,Unspecified,Minor Injury,Minor injury,Aug,2006,Uncertain,Unspecified
+Belize,M,34,Shark involvement prior to death not confirmed,Y,Unspecified,Death,Death,Aug,2006,Death,Unspecified
+Spain,F,7,Hand & wrist severely bitten,N,Hand Injury,Severe Injury,Severe injury,Jul,2006,Severe Injury,Hand Injury
+USA,M,26,Shark bites post mortem,N,Unspecified,Minor Injury,Minor injury,Apr,2006,Uncertain,Unspecified
+South Africa,M,17,"FATAL, but shark involvement prior to death unconfirmed",Y,Unspecified,Death,Death,Mar,2006,Death,Unspecified
+USA,M,45,Forensic examination suggested diver drowned & afterwards his body was bitten by a shark/s,N,Unspecified,Uncertain,Minor injury,Feb,2006,Uncertain,Unspecified
+Bahamas,M,26,"No injury, divers felt threatened by 10' pregnant female tiger shark & killed the shark",N,Unspecified,No Injury,No injury,Jan,2006,No Injury,Unspecified
+USA,M,26,Lacerations to dorsum of left foot,N,Foot Injury,Minor Injury,Minor injury,Sep,2005,Minor Injury,Foot Injury
+USA,M,17,"Laceration to knee, possibly by a  small blacktip shark",N,Leg Injury,Minor Injury,Minor injury,Aug,2005,Minor Injury,Leg Injury
+Seychelles,M,26,"FATAL, shark involvement prior to death is unconfirmed",Y,Unspecified,Death,Death,Aug,2005,Death,Unspecified
+USA,M,25,"Straight 2.5"" laceration on top of left ankle",N,Leg Injury,Minor Injury,Minor injury,Jul,2005,Minor Injury,Leg Injury
+Liberia,M,26,Presumed to have drowned until his body washed ashore 2 weeks later with shark bites,N,Unspecified,Minor Injury,Minor injury,Jul,2005,Uncertain,Unspecified
+USA,M,49,"No injury, 2.1m [7'] tiger shark approached swimmer who repelled it with his fist",N,Unspecified,No Injury,No injury,Jun,2005,No Injury,Unspecified
+USA,M,17,Dorsum of foot/ankle  injured by surfboard skeg or other inanimate object.,N,Leg Injury,Uncertain,Unknown,Jun,2005,Uncertain,Leg Injury
+USA,M,52,Foot injured ,N,Foot Injury,Uncertain,Unknown,Apr,2005,Uncertain,Foot Injury
+Honduras,F,26,"Laceration on siide of calf, small laceration on thigh, large bruise on other leg inside the knee, knuckle of hand abraded",N,Leg Injury,Minor Injury,Minor injury,Apr,2005,Minor Injury,Leg Injury
+South Africa,M,51,Bites by 2.5 m tiger shark were post mortem,N,Unspecified,Minor Injury,Minor injury,Mar,2005,Uncertain,Unspecified
+Sri Lanka,F,11,No injury,N,Unspecified,No Injury,No injury,Dec,2004,No Injury,Unspecified
+USA,M,26,Minor scratch on calf,N,Leg Injury,Minor Injury,Unknown,Sep,2004,Minor Injury,Leg Injury
+Australia,M,26,"No injury, shark made threat displays & diver fended it off with his speargun",N,Unspecified,No Injury,No injury,Jun,2004,No Injury,Unspecified
+USA,M,9,Single puncture wound on the foot,N,Foot Injury,Uncertain,Unknown,May,2004,Uncertain,Foot Injury
+USA,F,22,"Disappeared, surfboard washed ashore, marks on leash suggested shark involvement ",N,Unspecified,Uncertain,Unknown,Apr,2004,Uncertain,Unspecified
+Australia,M,31,"Disappeared while diving, may have suffered shallow water blackout. Searchers observed large tiger sharks & whaler sharks in the area",N,Unspecified,Uncertain,Unknown,Feb,2004,Uncertain,Unspecified
+New Zealand,M,26,"No injury, swim fin damaged",N,Unspecified,No Injury,No injury,Jan,2004,No Injury,Unspecified
+New Zealand,M,26,"No injury, no attack, shark took fish from back of kayak",N,Back Injury,No Injury,No injury,Jan,2004,No Injury,Back Injury
+USA,M,28,Knee lacerated,N,Leg Injury,Uncertain,Unknown,Dec,2003,Uncertain,Leg Injury
+USA,M,56,Left forearm lacerated,N,Arm Injury,Uncertain,Unknown,Oct,2003,Uncertain,Arm Injury
+USA,F,9,Puncture wounds on inner thigh,N,Leg Injury,Uncertain,Unknown,Sep,2003,Uncertain,Leg Injury
+USA,M,31,Left ankle lacerated,N,Leg Injury,Uncertain,Unknown,Aug,2003,Uncertain,Leg Injury
+USA,F,22,Foot lacerated,N,Foot Injury,Uncertain,Unknown,Jun,2003,Uncertain,Foot Injury
+South Africa,M,14,Probable scavenging. The boy disappeared while at the beach on January 1st. His decomposed shark-bitten body washed ashore January 17th,N,Unspecified,Uncertain,Minor injury,Jan,2003,Uncertain,Unspecified
+Australia,M,11,Foot lacerated,N,Foot Injury,Uncertain,Unknown,Dec,2002,Uncertain,Foot Injury
+Australia,M,52,"Drowned, his remains were found in a 3m [10'], 368 kg [811-lb] tiger shark",N,Unspecified,Uncertain,Unknown,Apr,2002,Uncertain,Unspecified
+New Caledonia,M,44,"PRESUMED FATAL, body not recovered",Y,Unspecified,Death,Death,Mar,2002,Death,Unspecified
+Australia,M,26,"No injury, fell off ski after possibly colliding with  a shark",N,Unspecified,No Injury,No injury,Nov,2001,No Injury,Unspecified
+Australia,M,75,Remains recovered from gut of a  3.7 m [12'] tiger shark,N,Unspecified,Uncertain,Unknown,Jun,2001,Uncertain,Unspecified
+Madagascar,M,26,Fatal or drowned & remains scavenged by shark,Y,Unspecified,Death,Death,May,2001,Death,Unspecified
+Brazil,M,12,Lacerations below the knee,N,Leg Injury,Minor Injury,Minor injury,Mar,2001,Minor Injury,Leg Injury
+Malaysia,F,26,Bones recovered by fishermen in 300-kg [662-lb] white shark’s gut,N,Unspecified,Uncertain,Unknown,Feb,2001,Uncertain,Unspecified
+Australia,M,47,"Missing, thought to have been taken by a shark",N,Unspecified,Uncertain,Unknown,Nov,2000,Uncertain,Unspecified
+USA,F,27,No injury,N,Unspecified,No Injury,No injury,Nov,2000,No Injury,Unspecified
+USA,M,26,Non-fatal,Y,Unspecified,Death,Death,Aug,2000,Death,Unspecified
+USA,M,22,Shark involvement probably post-mortem,N,Unspecified,Uncertain,Unknown,Aug,2000,Uncertain,Unspecified
+New Zealand,M,27,Reported as shark attack but probable drowning ,N,Unspecified,Uncertain,Unknown,Mar,2000,Death,Unspecified
+USA,M,26,"Presumed taken by a shark,  but forensic evidence suggested otherwise.",N,Unspecified,Uncertain,Unknown,Dec,1999,Uncertain,Unspecified
+Australia,F,37,"Cut foot, but injury caused by fishing line, not the shark",N,Foot Injury,Minor Injury,Unknown,Jan,1999,Minor Injury,Foot Injury
+Australia,M,31,"Missing, thought to have been taken by a shark",N,Unspecified,Uncertain,Unknown,Jan,1998,Uncertain,Unspecified
+USA,F,29,"Ankle bitten, but shark involvement unconfirmed",N,Leg Injury,Uncertain,Minor injury,Dec,1997,Uncertain,Leg Injury
+Australia,M,21,5 m white shark obsrved feeding on remains 6 days later,N,Unspecified,Uncertain,Unknown,Nov,1997,Uncertain,Unspecified
+Mexico,M,28,FATAL,Y,Unspecified,Death,Death,Aug,1997,Death,Unspecified
+USA,F,28,Minor injuries to foot,N,Foot Injury,Minor Injury,Unknown,Sep,1996,Minor Injury,Foot Injury
+USA,M,26,Minor injury,N,Unspecified,Minor Injury,Unknown,Nov,1995,Minor Injury,Unspecified
+USA,M,9,Laceration to lower leg,N,Leg Injury,Minor Injury,Minor injury,Sep,1995,Minor Injury,Leg Injury
+USA,M,15,Death resulted fom drowning; tiger shark bites were post-mortem,Y,Unspecified,Death,Death,Aug,1995,Death,Unspecified
+Tonga,M,26,Finger broken when 1.8 m [6'] hooked grey reef shark  grabbed his catch,N,Hand Injury,Uncertain,Unknown,Aug,1995,Uncertain,Hand Injury
+USA,M,26,Torso bitten by 4 m [13'] white shark,N,Torso Injury,Uncertain,Minor injury,Aug,1995,Uncertain,Torso Injury
+USA,M,12,"Dorsum of right hand bitten, a probable bluefish bite",N,Hand Injury,Minor Injury,Minor injury,Apr,1995,Uncertain,Hand Injury
+Australia,M,44,Shark scavenged on his corpse,N,Unspecified,Uncertain,Unknown,Dec,1994,Uncertain,Unspecified
+USA,F,25,Not a shark attack; possibly murder. Body recovered 4-16-1994 minus severed leg. Blue shark bites were post-mortem,N,Leg Injury,Severe Injury,Severe injury,Apr,1994,Severe Injury,Leg Injury
+Australia,M,32,No injury ,N,Unspecified,No Injury,No injury,Apr,1993,No Injury,Unspecified
+USA,M,26,Body recovered next morning. Injuries appeared to be inflicted post mortem,N,Unspecified,Uncertain,Unknown,Aug,1992,Uncertain,Unspecified
+USA,M,26,No details,N,Unspecified,Uncertain,Unknown,Aug,1992,Uncertain,Unspecified
+USA,M,26,"Death due to drowning. His body, tied to floating ice chest, had 2 small post-mortem bites due to cookie cutter shark",Y,Torso Injury,Death,Death,Jul,1992,Death,Torso Injury
+USA,M,45,Disappeared. His ripped dive jacket was recovered,N,Unspecified,Uncertain,Unknown,May,1992,Uncertain,Unspecified
+Australia,M,19,"No injury, shark allegedly took his surfboard & slashed his wetsuit. Shark involvement questionable",N,Leg Injury,No Injury,No injury,Feb,1992,No Injury,Leg Injury
+Bahamas,M,32,"Initally reported as a shark attack, forensic examination concluded cause of death was drowning",Y,Unspecified,Death,Death,Sep,1991,Death,Unspecified
+South Africa,M,26,Survived,N,Unspecified,Uncertain,Unknown,Dec,1990,No Injury,Unspecified
+USA,M,30,"Disappeared, body recovered with large bite on thigh",N,Leg Injury,Minor Injury,Minor injury,Aug,1990,Uncertain,Leg Injury
+Australia,M,27,"Swept out to sea, feared taken by shark",N,Unspecified,Uncertain,Unknown,Dec,1989,Uncertain,Unspecified
+USA,M,26,Lower porton of body recovered 3 days later. Note: rare sighting of shark made at same beach on 11-5-1989 ,N,Unspecified,Uncertain,Unknown,Nov,1989,Uncertain,Unspecified
+USA,M,26,"Disappeared 15 minutes into shallow dive. Decapitated body minus arm found by divers the following morning, then a large tiger shark appeared and consumed most of remains",N,Arm Injury,Uncertain,Unknown,Oct,1989,Uncertain,Arm Injury
+USA,M,49,FATAL,Y,Unspecified,Death,Death,Oct,1989,Death,Unspecified
+Bermuda,M,35,FATAL,Y,Unspecified,Death,Death,Jul,1989,Death,Unspecified
+Japan,M,26,"Doubtful incident, needs investigation",N,Unspecified,Uncertain,Unknown,Jun,1989,Uncertain,Unspecified
+USA,M,24,Reported by media as shark attack but forensic evidence indicated the kayaker died prior to any shark involvement,Y,Unspecified,Death,Death,Jan,1989,Death,Unspecified
+USA,M,26,"Human remains, believed to be those of Mr. Goo, washed ashore along the Waihee shore several days later",N,Multiple Injuries,Severe Injury,Unknown,Apr,1988,Uncertain,Multiple Injuries
+South Africa,F,26,"Arm washed ashore. scratch marks on the humerus indicated it had been bitten by a shark, but cause of death could not be determined.",Y,Arm Injury,Death,Death,Apr,1988,Death,Arm Injury
+South Africa,M,22,Minor injury to leg,N,Leg Injury,Minor Injury,Unknown,Jan,1988,Minor Injury,Leg Injury
+Australia,M,26,His remains were recovered from a shark caught by  the trawler Ho Tai No.12 in March 1988,N,Unspecified,Uncertain,Unknown,Jan,1988,Uncertain,Unspecified
+Australia,F,17,"Remains recovered from 4 m, 420-kg, caught 13-Dec-1987k",N,Unspecified,Uncertain,Unknown,Dec,1987,Uncertain,Unspecified
+South Africa,M,26,Possible drowning / scavenging,N,Unspecified,Uncertain,Uncertain,Nov,1987,Uncertain,Unspecified
+South Africa,M,14,Abrasion to forearm,N,Arm Injury,Uncertain,Unknown,Oct,1987,Minor Injury,Arm Injury
+South Africa,M,26,"Slipped off rocks & was treading water when he disappeared, body mutilated by shark/s",N,Unspecified,Uncertain,Unknown,Apr,1987,Uncertain,Unspecified
+South Africa,M,22,"No injury, no attack, 1.8 m copper shark made threat displays",N,Unspecified,No Injury,No injury,Dec,1986,No Injury,Unspecified
+South Africa,M,35,"No injury, shark made threat display & impaled itself on spear ",N,Unspecified,No Injury,No injury,Aug,1986,No Injury,Unspecified
+South Africa,M,21,Probable drowning / scavenging,N,Unspecified,Uncertain,Unknown,Sep,1985,Death,Unspecified
+USA,M,17,Found to be a hoax,N,Unspecified,Uncertain,Unknown,Sep,1985,Uncertain,Unspecified
+USA,M,11,"3"" wound on thigh",N,Leg Injury,Uncertain,Unknown,Aug,1985,Uncertain,Leg Injury
+USA,M,67,Body not recovered. 3 days later some of his equipment was found on seabed appeared damaged by a shark ,N,Unspecified,Uncertain,Unknown,Aug,1985,Death,Unspecified
+South Africa,M,26,Probable drowning / scavenging,N,Unspecified,Uncertain,Unknown,Jan,1985,Death,Unspecified
+USA,M,22,"Disappeared, 1 mile from where Sandra Fletcher was bitten. Death was due to drowning",Y,Unspecified,Death,Death,Oct,1984,Death,Unspecified
+USA,F,77,"10"" laceration on leg",N,Leg Injury,Minor Injury,Minor injury,Oct,1984,Minor Injury,Leg Injury
+USA,F,31,Death was due to drowning; body scavenged by a tiger shark,Y,Unspecified,Death,Death,Aug,1984,Death,Unspecified
+South Africa,M,21,"FATAL, but shark involvement prior to death could not be determined",Y,Unspecified,Death,Death,Jul,1984,Death,Unspecified
+Somalia,M,26, Forced at gunpoint to jump overboard. Presumed fatal; shark involvement probable but not confirmed ,Y,Unspecified,Death,Death,Mar,1984,Death,Unspecified
+Greece,M,36,"Coroner determined the man was killed by a boat propeller, not a tiger shark",N,Unspecified,Uncertain,Unknown,Dec,1983,Uncertain,Unspecified
+South Africa,M,26,"Two feet found in 1.74 m, 115-kg Zambesi shark, confirmed as a postmortem scavenging",N,Unspecified,Uncertain,Unknown,Dec,1983,Uncertain,Unspecified
+South Africa,F,26,Probable drowning and scavenging,N,Unspecified,Uncertain,Unknown,Nov,1983,Death,Unspecified
+Italy,M,26,"No injury, 3 m shark ""harassed"" him at depth of 5 m",N,Unspecified,No Injury,No injury,Jun,1983,No Injury,Unspecified
+South Africa,M,26,Survived,N,Unspecified,Uncertain,Unknown,Apr,1983,No Injury,Unspecified
+South Africa,M,26,FATAL,Y,Unspecified,Death,Death,Jan,1983,Death,Unspecified
+USA,M,25,"Remains recovered from 2.7 m tiger shark, but shark involvement prior to death unknown",Y,Unspecified,Death,Death,Sep,1982,Death,Unspecified
+USA,M,17,"No Injury, board bitten",N,Unspecified,No Injury,Minor injury,Aug,1982,No Injury,Unspecified
+South Africa,M,20,"No injury, swim fin bitten",N,Unspecified,No Injury,Minor injury,Jul,1982,No Injury,Unspecified
+USA,M,43,Laceration to left thigh,N,Leg Injury,Minor Injury,Minor injury,Jul,1982,Minor Injury,Leg Injury
+USA,F,33,Human remains recovered from tiger shark,N,Unspecified,Uncertain,Unknown,May,1982,Uncertain,Unspecified
+USA,M,26,Disappeared while fishing from shore. Leg found 7 days later wedged in rocks 150 yards offshore,N,Leg Injury,Uncertain,Unknown,Aug,1981,Uncertain,Leg Injury
+USA,M,26,"Probable drowning, 1.2 m [4'] shark hindered recovery of body",N,Unspecified,Uncertain,Unknown,Jun,1981,Death,Unspecified
+South Africa,M,23,Probable drowning & scavenging by 1.5 m tiger shark,N,Unspecified,Uncertain,Unknown,Jan,1981,Death,Unspecified
+South Africa,M,26,Probable  drowning & scavenging,N,Unspecified,Uncertain,Unknown,Nov,1980,Uncertain,Unspecified
+USA,M,36,"FATAL, but shark involvement prior to death was not determined",Y,Unspecified,Death,Death,May,1979,Death,Unspecified
+South Africa,M,26,FATAL or scavenging by 3 m tiger shark (may have involved foul play),Y,Unspecified,Death,Death,Oct,1978,Death,Unspecified
+South Africa,M,26,"Human head recovered from 3 m [10'] tiger shark’s gut, probable drowning / scavenging",N,Head/Face Injury,Uncertain,Unknown,Jan,1978,Death,Head/Face Injury
+USA,M,17,Lacerations to hip and leg,N,Leg Injury,Minor Injury,Minor injury,Aug,1977,Minor Injury,Leg Injury
+Australia,M,26,"Missing, believed taken by a shark",N,Unspecified,Uncertain,Unknown,May,1977,Uncertain,Unspecified
+Australia,M,26,Shark involvement prior to death was unconfirmed,Y,Unspecified,Death,Death,Feb,1977,Death,Unspecified
+South Africa,M,17,Laceration to foot,N,Foot Injury,Minor Injury,Minor injury,Nov,1976,Minor Injury,Foot Injury
+USA,M,26,"""Tooth marks"" in left leg",N,Leg Injury,Uncertain,Unknown,Oct,1975,Uncertain,Leg Injury
+Italy,M,37,The press reported this as an attack by a white shark but the diver was the agressor,N,Unspecified,Uncertain,Unknown,Apr,1975,Uncertain,Unspecified
+South Africa,M,26,Probable drowning / scavenging,N,Unspecified,Uncertain,Unknown,Apr,1975,Death,Unspecified
+South Africa,M,26,Probable drowning / scavenging by a white shark,N,Unspecified,Uncertain,Unknown,Mar,1975,Death,Unspecified
+Mozambique,F,20,Feet injured,N,Unspecified,Uncertain,Unknown,Sep,1972,Uncertain,Unspecified
+USA,M,26,"Swept out to sea,  5.5 m [18'] shark seen in the vicinity, body not recovered. ",N,Unspecified,Uncertain,Unknown,Mar,1970,Death,Unspecified
+Australia,M,26,No injury,N,Unspecified,No Injury,No injury,Apr,1969,No Injury,Unspecified
+Australia,M,52,No details,N,Unspecified,Uncertain,Unknown,Feb,1969,Uncertain,Unspecified
+South Africa,M,26,No injury,N,Unspecified,No Injury,No injury,Dec,1968,No Injury,Unspecified
+South Africa,M,30,No injury,N,Unspecified,No Injury,No injury,Dec,1968,No Injury,Unspecified
+Mexico,M,43,No injury,N,Unspecified,No Injury,No injury,Jul,1968,No Injury,Unspecified
+USA,M,63,Foot severely injured,N,Foot Injury,Severe Injury,Unknown,Apr,1968,Severe Injury,Foot Injury
+USA,M,28,No injury,N,Unspecified,No Injury,No injury,Mar,1968,No Injury,Unspecified
+Papua New Guinea,M,32,No injury,N,Unspecified,No Injury,No injury,Dec,1967,No Injury,Unspecified
+South Africa,F,26,"Bones and brightly colored bangles recovered  3.35 m, 145.5-kg tiger shark’s gut ",N,Unspecified,Uncertain,Unknown,Nov,1967,Uncertain,Unspecified
+USA,M,26,Remains found in a 3.4 m (11') tiger shark. Probable drowning & scavenging,N,Unspecified,Uncertain,Unknown,Sep,1967,Death,Unspecified
+Italy,M,21,"Diver shot the shark, then it injured his arm and broke his leg with its tail.  PROVOKED INCIDENT",N,Leg Injury,Uncertain,Unknown,Sep,1967,Uncertain,Leg Injury
+Australia,M,19,"Disappeared, no trace of men or equipment, shark attack considered",N,Unspecified,Uncertain,Unknown,Aug,1967,Uncertain,Unspecified
+USA,M,18,Incident not confirmed,N,Unspecified,Uncertain,Unknown,Jul,1967,Uncertain,Unspecified
+Australia,M,26," The 2.9 m [9.5'] shark never made contact with him. No attack, no injury.",N,Unspecified,No Injury,No injury,Sep,1966,No Injury,Unspecified
+South Africa,M,26,"No attack, no injury to occupant: a 400-lb grey shark bit nets in the water ",N,Unspecified,No Injury,No injury,Aug,1966,No Injury,Unspecified
+USA,M,46,No injury. A 1.1 m [3.5'] blacktip shark shark made a threat display & bit gig,N,Unspecified,No Injury,No injury,Jul,1966,No Injury,Unspecified
+USA,M,24,"White shark, 3.7 m [12']  made threat display. No injury, no attack",N,Unspecified,No Injury,No injury,May,1966,No Injury,Unspecified
+Philippines,M,26,"One man was lost, but he may have drowned",N,Unspecified,Uncertain,Unknown,Aug,1965,Uncertain,Unspecified
+USA,M,6,Parallel lacerations on right calf. Thought to be a barracuda bite ,N,Leg Injury,Minor Injury,Minor injury,Jun,1965,Minor Injury,Leg Injury
+USA,M,26,"No injury, chased by 4.6 m [15'] oceanic whitetip sharks",N,Unspecified,No Injury,No injury,Jun,1965,No Injury,Unspecified
+USA,M,19,Drowned & his body was not recovered. Sharks seen in area later that day but no shark involvement in surfer's death,Y,Unspecified,Death,Death,Apr,1965,Death,Unspecified
+USA,M,26,"All 16 onboard perished, recovery efforts hampered by sharks",N,Unspecified,Uncertain,Unknown,Mar,1965,Uncertain,Unspecified
+USA,M,21,"Puncture marks on chest may have been post mortem, 4 other bodies in area were undamaged",N,Torso Injury,Uncertain,Unknown,Jan,1965,Uncertain,Torso Injury
+USA,M,18,3 m to 3.7 m [10' to 12']  great hammerhead shark shark only made a threat display. No injury,N,Head/Face Injury,No Injury,No injury,Aug,1964,No Injury,Head/Face Injury
+USA,F,29,"Disappeared, probable drowning but sharks in area led to speculation that she was taken by a shark",N,Unspecified,Uncertain,Unknown,Jun,1964,Death,Unspecified
+South Africa,M,40,"Skeletonized, except for head & feet. Possibly a drowning / scavenging",N,Head/Face Injury,Uncertain,Unknown,Jun,1964,Uncertain,Head/Face Injury
+Australia,M,23,Body not recovered  / May have drowned prior to shark involvement,N,Unspecified,Uncertain,Unknown,Feb,1964,Death,Unspecified
+New Zealand,M,26,No injury,N,Unspecified,No Injury,No injury,Jan,1964,No Injury,Unspecified
+Atlantic Ocean,F,26,"One woman reported to have suffered fish bites, but cause of her death was exposure & drowning""",Y,Unspecified,Death,Death,Dec,1963,Death,Unspecified
+USA,M,26,3 lacerations below right knee,N,Leg Injury,Minor Injury,Minor injury,May,1963,Minor Injury,Leg Injury
+USA,M,26,"May have drowned prior to shark involvement, partial remains recovered",N,Unspecified,Uncertain,Unknown,Apr,1963,Uncertain,Unspecified
+USA,M,26,Two shark-bitten lifejackets were recovered leading to speculation that sharks took at least 2 of the 39 missing crewmen,N,Unspecified,Uncertain,Minor injury,Feb,1963,Uncertain,Unspecified
+Australia,M,25,"9' shark in area when he disappeared, body not recovered",N,Unspecified,Uncertain,Unknown,Jan,1963,Death,Unspecified
+Australia,M,26,"Skeletonized, except for head & feet. Possible drowning / scavenging",N,Head/Face Injury,Uncertain,Uncertain,Nov,1962,Uncertain,Head/Face Injury
+USA,F,43,Drowned due to CO2 poisoning - Post Mortem scavanging by blue shark,N,Unspecified,Uncertain,Unknown,Oct,1962,Uncertain,Unspecified
+USA,M,26,FATAL,Y,Unspecified,Death,Death,Jun,1962,Death,Unspecified
+South Africa,M,40,Possible drowning / post mortem scavenging by Zambesi shark,N,Unspecified,Uncertain,Uncertain,Jan,1962,Uncertain,Unspecified
+Australia,M,25,"Remains recovered from 10' shark, but shark involvement prior to death unconfirmed",Y,Unspecified,Death,Death,Jan,1962,Death,Unspecified
+USA,M,45,"Skeletonized, but shark involvement may have occurred after death.",Y,Unspecified,Death,Death,Oct,1961,Death,Unspecified
+USA,M,10,Abdomen abraded,N,Torso Injury,Uncertain,Unknown,Apr,1961,Uncertain,Torso Injury
+USA,M,26,Considered a doubtful incident,N,Unspecified,Uncertain,Unknown,Feb,1961,Uncertain,Unspecified
+USA,F,51,"FATAL, probable drowning & post mortem scavenging",Y,Unspecified,Death,Death,Nov,1960,Death,Unspecified
+Australia,M,24,"Swept off rocks & presumed to have drowned, shark seen in area",N,Unspecified,Uncertain,Unknown,Oct,1960,Uncertain,Unspecified
+USA,M,26,"Apparently went missing while diving. Helicopter searching for him spotted school of sharks attacking a ""white object"" 15' below the surface",N,Head/Face Injury,Uncertain,Unknown,Oct,1960,Uncertain,Head/Face Injury
+Johnston Island,M,37,"No injury, shark made threat display",N,Unspecified,No Injury,No injury,Oct,1960,No Injury,Unspecified
+Marshall Islands,M,26,"No injury, shark made a threat display",N,Unspecified,No Injury,No injury,Sep,1960,No Injury,Unspecified
+Marshall Islands,M,26,"No injury, shark made a threat display",N,Unspecified,No Injury,No injury,Sep,1960,No Injury,Unspecified
+USA,M,26,"Partial human remains spotted by helicopter, shark involvement, if any, may have been post-mortum",N,Unspecified,Uncertain,Unknown,Aug,1960,Uncertain,Unspecified
+USA,M,39,"Legs & arms bitten, coroner unable to determine if injuries occurred before death.",Y,Leg Injury,Death,Death,Jun,1960,Death,Leg Injury
+Bermuda,M,28,"No injury, 5 sharks bumped raft",N,Unspecified,No Injury,No injury,Apr,1960,No Injury,Unspecified
+USA,M,36,Left forearm lacerated,N,Arm Injury,Uncertain,Unknown,Feb,1960,Uncertain,Arm Injury
+Australia,M,26,"No injury, shark made threat display, one diver shot shark in jaw, then they killed shark with knives  ",N,Head/Face Injury,No Injury,No injury,Dec,1959,No Injury,Head/Face Injury
+Bermuda,F,29,"Murdered, body scavenged by sharks",N,Unspecified,Uncertain,Unknown,Sep,1959,Uncertain,Unspecified
+USA,M,26,No injury,N,Unspecified,No Injury,No injury,Sep,1959,No Injury,Unspecified
+Australia,M,26,No injury,N,Unspecified,No Injury,No injury,Aug,1959,No Injury,Unspecified
+Japan,M,14,Survived (no injury?),N,Unspecified,No Injury,No injury,Aug,1959,No Injury,Unspecified
+Philippines,M,10,"Navy personnel reported that his body was ""mutilated by sharks"" but it is probable that death resulted from drowning",Y,Unspecified,Death,Death,Aug,1959,Death,Unspecified
+USA,M,21,No injury,N,Unspecified,No Injury,No injury,Aug,1959,No Injury,Unspecified
+USA,M,26,"No injury, no attack, the 10' shark merely circled him.",N,Unspecified,No Injury,No injury,Aug,1959,No Injury,Unspecified
+Australia,M,22,Thigh lacerated,N,Leg Injury,Uncertain,Unknown,Apr,1959,Uncertain,Leg Injury
+South Africa,M,26,"No injury, shark leapt at him",N,Unspecified,No Injury,No injury,Nov,1958,No Injury,Unspecified
+Australia,F,26,"Injuries caused by coral, not the  shark",N,Unspecified,Uncertain,Unknown,Jun,1958,Uncertain,Unspecified
+South Africa,M,26,Injuries not caused by sharks,N,Unspecified,Uncertain,Unknown,Jun,1958,Uncertain,Unspecified
+Australia,M,21,"Disappeared while diving, speargun recovered, 2 large sharks in vicinity.",N,Unspecified,Uncertain,Unknown,Feb,1958,Uncertain,Unspecified
+Japan,M,50,Torso recovered from 206-lb shark,N,Torso Injury,Uncertain,Unknown,Jan,1958,Uncertain,Torso Injury
+Japan,M,13,Body found in gut of 2000-lb white shark,N,Unspecified,Uncertain,Unknown,Oct,1954,Uncertain,Unspecified
+Italy,M,26,No injury to occupants. Shark tore nets & trawl and struck boat repeatedly,N,Unspecified,No Injury,No injury,Jul,1954,No Injury,Unspecified
+USA,M,26,"Body recovered, mutilated by shark/s",N,Unspecified,Uncertain,Unknown,Apr,1954,Uncertain,Unspecified
+Mexico,M,19,No injury,N,Unspecified,No Injury,No injury,Aug,1953,No Injury,Unspecified
+Guatemala,F,26,It is probable that all onboard (2 men & 2 women) died when the plane crashed into the sea & her body was scavenged by a shark,Y,Unspecified,Death,Death,Dec,1962,Death,Unspecified
+South Africa,M,18,"Possibly drowned, remains recovered days later in gut of  113-kg [249-lb]  female Zambesi shark ",N,Unspecified,Uncertain,Unknown,Aug,1952,Uncertain,Unspecified
+Australia,M,26,Body found after a week in the water apparently bitten by shark/s,N,Unspecified,Uncertain,Minor injury,Jan,1951,Uncertain,Unspecified
+USA,M,26,Human remains found in shark,N,Unspecified,Uncertain,Unknown,Jul,1950,Uncertain,Unspecified
+Australia,M,26,"Szot's right hand found in a 4.5' [14.5'] tiger shark caught 3/9/1950 at Safety Bay, south of Freemantle. His body, with bullet wound in head & right hand missing, washed shore - an apparent suicide",N,Hand Injury,Uncertain,Unknown,Mar,1950,Uncertain,Hand Injury
+USA,M,26,"His remains were recovered from a “huge shark” caught 3 days later. The remains of another fisherman, Harold Fujimoto, were recovered, but the body of the third fisherman, Hideo Tamura, was never found",N,Unspecified,Uncertain,Unknown,Jan,1950,Uncertain,Unspecified
+Australia,M,26,Fatal or drowning or scavenging,Y,Unspecified,Death,Death,Nov,1949,Death,Unspecified
+Italy,M,17,No injury,N,Unspecified,No Injury,No injury,Aug,1949,No Injury,Unspecified
+Australia,M,32,"No injury, chased by 3 sharks",N,Unspecified,No Injury,No injury,Jan,1949,No Injury,Unspecified
+Greece,M,26,Shark involvement  unconfirmed,N,Unspecified,Uncertain,Unknown,Jul,1947,Uncertain,Unspecified
+Australia,M,26,Probable drowning & scavenging,N,Unspecified,Uncertain,Unknown,Nov,1944,Death,Unspecified
+North Pacific Ocean,M,26,"When picked up by the USS Boyd DD 44 on 6/23/1944 his raft was ""surrounded by sharks""",N,Unspecified,Uncertain,Unknown,Jun,1944,Uncertain,Unspecified
+USA,M,26,"Hand, forearm, leg and pelvis recovered from 4.25 m  [14'] shark caught at Baker’s Haulover, Miami Beach on 26-Oct-1943",N,Leg Injury,Uncertain,Unknown,Oct,1943,Uncertain,Leg Injury
+Mexico,M,68,"No injury, a shark made a threat display",N,Unspecified,No Injury,No injury,Jul,1943,No Injury,Unspecified
+Pacific Ocean,M,26,Survived,N,Unspecified,Uncertain,Unknown,May,1943,No Injury,Unspecified
+USA,M,26,On 29-Apr-1943 his remains (right forearm & swim trunks) were found in 4.9 m [16'] shark’s gut,N,Arm Injury,Uncertain,Unknown,Apr,1943,Uncertain,Arm Injury
+Brazil,M,26,"Remains  recovered from 440-lb shark, but cause of death was probably drowning",Y,Unspecified,Death,Death,Jun,1942,Death,Unspecified
+Australia,M,18,"Cause of death was drowning, shark bites were post mortem",Y,Unspecified,Death,Death,Mar,1942,Death,Unspecified
+Australia,M,26,Shark involvement prior to death unconfirmed,Y,Unspecified,Death,Death,Aug,1941,Death,Unspecified
+Australia,M,40,Abrasion above knee ,N,Leg Injury,Uncertain,Unknown,Dec,1939,Minor Injury,Leg Injury
+Australia,M,24,Superficial lacerations on feet & toes,N,Foot Injury,Minor Injury,Minor injury,Jan,1938,Minor Injury,Foot Injury
+Türkiye,M,26,"No injury, no attack",N,Unspecified,No Injury,No injury,Aug,1937,No Injury,Unspecified
+Australia,M,16,His body was recovered 2 days later but shark involvement prior to death was not confirmed,Y,Unspecified,Death,Death,Mar,1937,Death,Unspecified
+Australia,M,43,Shark involvement prior to death was not confirmed,Y,Unspecified,Death,Death,Mar,1937,Death,Unspecified
+Australia,M,17,Disappeared & his torn clothing washed ashore,N,Unspecified,Uncertain,Unknown,Jan,1936,Uncertain,Unspecified
+UK,M,26,"The hooked shark didn't cut his finger, he was injured by his line",N,Hand Injury,Minor Injury,Unknown,Aug,1935,Minor Injury,Hand Injury
+USA,M,23,"Although listed as an uprovoked fatal attack by SAF, shark bite on his ankle was post-mortem following death by drowning",Y,Leg Injury,Death,Death,Jul,1935,Death,Leg Injury
+USA,M,53,"Although listed as  an uprovoked fatal attack by SAF, he was killed by the explosion. The shark bites were post-mortem ",Y,Unspecified,Death,Death,Jul,1935,Death,Unspecified
+Australia,M,40,Captive tiger shark regurgitated his arm in the Coogee Aquarium,N,Arm Injury,Uncertain,Unknown,Apr,1935,Uncertain,Arm Injury
+Australia,M,5,No injury; onlookers saw 10' shark heading for him and lifted him ashore,N,Head/Face Injury,No Injury,No injury,Jan,1935,No Injury,Head/Face Injury
+Australia,M,26,"No injury, ""shark chased him ashore""",N,Unspecified,No Injury,No injury,Jun,1933,No Injury,Unspecified
+USA,M,17,Body recovered  from 9' shark but death due to shark bite was not confirmed,Y,Unspecified,Death,Death,Jul,1932,Death,Unspecified
+USA,M,26,"Swept out to sea by strong currents, his remains found in a 5.5m shark caught off Barber’s Point",N,Unspecified,Uncertain,Unknown,Sep,1931,Uncertain,Unspecified
+USA,M,26,"""Mysteriously disappeared"" His body was found in an 18', 750-lb shark caught at Barber's Point on 01-Sep-1931",N,Unspecified,Uncertain,Unknown,Aug,1931,Uncertain,Unspecified
+Australia,M,39,Death may have been due to drowning,Y,Unspecified,Death,Death,Feb,1931,Death,Unspecified
+South Africa,M,17,"Remains of drowning victim recovered from 250-lb female ""blue fin"" shark",N,Unspecified,Uncertain,Unknown,Apr,1930,Uncertain,Unspecified
+Cape Verde,F,26,Body of woman recovered from 15' shark,N,Unspecified,Uncertain,Unknown,Jul,1929,Uncertain,Unspecified
+USA,M,26,Thumb & coat sleeve recovered from shark's gut,N,Unspecified,Uncertain,Unknown,Aug,1928,Uncertain,Unspecified
+India,M,26,No details,N,Unspecified,Uncertain,Unknown,May,1928,Uncertain,Unspecified
+Spain,M,26,No injury,N,Unspecified,No Injury,No injury,Jul,1926,No Injury,Unspecified
+Australia,M,26,Abrasions,N,Unspecified,Uncertain,Unknown,Apr,1924,Minor Injury,Unspecified
+Australia,M,26,Probable drowning & scavenging,N,Unspecified,Uncertain,Unknown,Feb,1924,Death,Unspecified
+Australia,M,26,FATAL,Y,Unspecified,Death,Death,Nov,1923,Death,Unspecified
+Australia,M,26,"He failed to return, his body was recovered 11/9/1922; chest & abdomen had been bitten by shark/s",N,Torso Injury,Uncertain,Minor injury,Oct,1923,Uncertain,Torso Injury
+Australia,M,26,Death may have been due to drowning,Y,Unspecified,Death,Death,Jan,1923,Death,Unspecified
+Cuba,M,26,"Although this incident is listed elsewhere as a shark attack, the account of the disaster suggests the 4 who perished probably drowned. Five people survived",N,Unspecified,Uncertain,Unknown,Jan,1923,No Injury,Unspecified
+Australia,M,26,"FATAL, but shark involvement prior to death unconfirmed",Y,Unspecified,Death,Death,Oct,1922,Death,Unspecified
+Australia,M,26,"Disappeared whiile swimming alone, body parts recovered, but shark involvement prior to death unconfirmed",Y,Unspecified,Death,Death,Feb,1922,Death,Unspecified
+USA,M,30,Thought to have been taken by a shark. Body was not recovered,N,Unspecified,Uncertain,Unknown,Jul,1920,Uncertain,Unspecified
+USA,F,26,"No attack,  no injury",N,Unspecified,No Injury,No injury,Jul,1916,No Injury,Unspecified
+Egypt,M,26,Shark involvement not confirmed,N,Unspecified,Uncertain,Unknown,May,1915,Uncertain,Unspecified
+New Zealand,M,26,Death may have been due to drowning,Y,Unspecified,Death,Death,Jan,1915,Death,Unspecified
+USA,M,26,His remains were recovered from a shark 3 years after his disappearance - Probable drowning / scavenging,N,Unspecified,Uncertain,Unknown,Mar,1914,Death,Unspecified
+USA,M,26,Man's leg recovered from 800-lb shark,N,Leg Injury,Uncertain,Unknown,Aug,1913,Uncertain,Leg Injury
+USA,F,26,Female foot recovered from shark,N,Foot Injury,Uncertain,Unknown,Aug,1913,Uncertain,Foot Injury
+South Africa,M,26,,N,Unspecified,Unknown,Unknown,May,1912,Unknown,Unspecified
+USA,M,26,"Cause of death undetermined. 3.6 m [11'9""] shark seen carrying body. Next day, shark was killed & Antoine's entire body was found in its gut.",Y,Unspecified,Death,Death,Nov,1911,Death,Unspecified
+Croatia,M,26,FATAL?,Y,Unspecified,Death,Death,Dec,1910,Death,Unspecified
+USA,M,26,Presumed drowned & bodies taken by sharks,N,Unspecified,Uncertain,Unknown,May,1910,Uncertain,Unspecified
+USA,M,26,No injury,N,Unspecified,No Injury,No injury,Mar,1910,No Injury,Unspecified
+USA,F,19, Search party saw a large shark devour what appeared to be part of her body,N,Unspecified,Uncertain,Unknown,Apr,1909,Uncertain,Unspecified
+USA,M,26,"FATAL, but shark involvement prior to death was not confirmed",Y,Unspecified,Death,Death,May,1908,Death,Unspecified
+Haiti,M,26,"No attack, no injury",N,Unspecified,No Injury,No injury,Oct,1907,No Injury,Unspecified
+UK,M,26," ""Struck across loins"" but no injury. According to witnesses, incident involved a bottlenose dolphin.",N,Unspecified,No Injury,No injury,Sep,1907,No Injury,Unspecified
+Australia,M,26,"Disappeared, but shark involvement unconfirmed",N,Unspecified,Uncertain,Unknown,Jul,1907,Uncertain,Unspecified
+Mozambique,M,26,Sanna may have drowned; his hand  (identified by ring on finger) found in a shark at the market,N,Hand Injury,Uncertain,Unknown,Jul,1906,Uncertain,Hand Injury
+Australia,M,18,Cause of death may have been downing,Y,Unspecified,Death,Death,April,1906,Death,Unspecified
+New Zealand,M,26,Shark involvement prior to death was not determined,Y,Unspecified,Death,Death,Feb,1906,Death,Unspecified
+Australia,M,26,"""Bad wound in the leg"" - 7-ft shark caught in the bath same day",N,Leg Injury,Uncertain,Unknown,Dec,1905,Uncertain,Leg Injury
+Egypt,M,26,Probable drowning & scavenging. ,N,Unspecified,Uncertain,Unknown,Aug,1905,Death,Unspecified
+Italy,M,8,"Body recovered from shark, probable drowning and scavenging",N,Unspecified,Uncertain,Unknown,Jul,1905,Death,Unspecified
+Australia,M,23,Thought to have been taken by a shark,N,Unspecified,Uncertain,Unknown,Feb,1905,Uncertain,Unspecified
+Australia,M,39,Reported to have been killed by a shark but 2 years later he was found very much alive,N,Unspecified,Uncertain,Unknown,Jan,1905,Uncertain,Unspecified
+South Africa,M,26,Probable drowning & scavenging,N,Unspecified,Uncertain,Unknown,Apr,1902,Death,Unspecified
+South Africa,M,26,Possible drowning & scavenging. Remains were recovered from a 15' shark's gut,N,Unspecified,Uncertain,Uncertain,Jan,1902,Uncertain,Unspecified
+Italy,M,20,"Disappeared, but shark involvement unconfirmed",N,Unspecified,Uncertain,Unknown,Jul,1901,Uncertain,Unspecified
+Yemen,M,26,,N,Unspecified,Unknown,Unknown,Jun,1901,Unknown,Unspecified
+South Africa,M,26,Probable drowning & scavenging,N,Unspecified,Uncertain,Unknown,Oct,1900,Death,Unspecified
+USA,M,26,"Believed drowned. Uhlbrecht’s foot, and the pelvis & femur of another person recovered in gut of tiger shark shark caught on 17-Aug-1900",N,Foot Injury,Uncertain,Unknown,Jul,1900,Uncertain,Foot Injury
+New Zealand,M,26,FATAL,Y,Unspecified,Death,Death,Jun,1899,Death,Unspecified
+Philippines,M,26,FATAL,Y,Unspecified,Death,Death,May,1899,Death,Unspecified
+Australia,F,13,Drowning may mav preceded attack,N,Unspecified,Uncertain,Unknown,Jan,1899,Uncertain,Unspecified
+USA,M,26,"""Cut up very badly""",N,Unspecified,Minor Injury,Unknown,Aug,1898,Minor Injury,Unspecified
+Australia,M,26,"Reported fatal, but this is a questionable incident",Y,Unspecified,Death,Death,Jul,1898,Death,Unspecified
+Mexico,M,26,Minor injuries,N,Unspecified,Minor Injury,Unknown,Oct,1897,Minor Injury,Unspecified
+Cuba,M,26,Probable drowning & scavenging,N,Unspecified,Uncertain,Unknown,Sep,1895,Death,Unspecified
+Australia,M,26,"Fatal, probable drowning",Y,Unspecified,Death,Death,Apr,1893,Death,Unspecified
+USA,M,26,"Fatal, but death may have been due to drowning",Y,Unspecified,Death,Death,Jun,1891,Death,Unspecified
+South Africa,M,26,"Forensic evidence indicated death resulted from drowning, his body was subsequently scavenged by a shark",Y,Unspecified,Death,Death,May,1890,Death,Unspecified
+USA,M,26,Speculated that he was taken by a shark but most likely drowned,N,Unspecified,Uncertain,Unknown,Nov,1889,Uncertain,Unspecified
+Jamaica,M,26,Human remains recovered from a 10' to 12' shark caught in a turtle net,N,Unspecified,Uncertain,Unknown,Jul,1888,Uncertain,Unspecified
+Australia,M,26,Probable drowning & scavenging,N,Unspecified,Uncertain,Unknown,Jun,1888,Death,Unspecified
+USA,F,26,"The body of one woman had been bitten by a shark but it is not known if she was alive at the time, the other woman disappeared",N,Unspecified,Uncertain,Minor injury,Jun,1886,Uncertain,Unspecified
+New Zealand,M,26,Probable drowning & scavenging,N,Unspecified,Uncertain,Unknown,Apr,1886,Death,Unspecified
+New Zealand,M,26,Left leg severed. Probably confusion with GSAF 1886.01.28,N,Leg Injury,Severe Injury,Severe injury,Mar,1886,Severe Injury,Leg Injury
+Australia,M,26,His body was found in a tiger shark; next day other human remains found in sharks at Berry's Bay ,N,Unspecified,Uncertain,Unknown,Mar,1886,Uncertain,Unspecified
+USA,M,26,Unclear if he sustained any injury from the 7' shark,N,Unspecified,Uncertain,Unknown,Aug,1884,Uncertain,Unspecified
+Australia,M,26,Shark involvement suspected but not confirmed,N,Unspecified,Uncertain,Unknown,Nov,1881,Uncertain,Unspecified
+USA,M,18,FATAL,Y,Unspecified,Death,Death,Oct,1881,Death,Unspecified
+Mexico,M,26,"Human remains recovered from a 15' shark, probable scavenging",N,Unspecified,Uncertain,Unknown,May,1880,Uncertain,Unspecified
+Australia,M,26,Partial  remains found in shark,N,Unspecified,Uncertain,Unknown,Mar,1879,Uncertain,Unspecified
+Indian Ocean,M,26,Partial human remains found in 13' shark,N,Unspecified,Uncertain,Unknown,Aug,1877,Uncertain,Unspecified
+South Africa,M,26,"Although his body was bitten by a shark/s, bruises on his neck & face suggested foul play & a shipmate taken into custody but no charges made",N,Head/Face Injury,Uncertain,Minor injury,Jan,1877,Minor Injury,Head/Face Injury
+Australia,M,26,Forehead bitten,N,Head/Face Injury,Uncertain,Minor injury,Jan,1875,Uncertain,Head/Face Injury
+Australia,M,26,FATAL,Y,Unspecified,Death,Death,Jun,1873,Death,Unspecified
+Azores,M,26,"No injury, but according to Fosdyk, captain & crew were killed by sharks",N,Unspecified,No Injury,No injury,Nov,1872,No Injury,Unspecified
+Croatia,M,26,No injury,N,Unspecified,No Injury,No injury,Aug,1872,No Injury,Unspecified
+Fiji,M,26,Probable drowning,N,Unspecified,Uncertain,Unknown,Jan,1872,Death,Unspecified
+Australia,M,26,Human remains recovered from 11' shark,N,Unspecified,Uncertain,Unknown,Dec,1871,Uncertain,Unspecified
+Guyana,M,26,FATAL,Y,Unspecified,Death,Death,May,1871,Death,Unspecified
+Australia,M,26,Thought to have been taken by a shark. Body was not recovered,N,Unspecified,Uncertain,Unknown,Apr,1866,Uncertain,Unspecified
+China,M,26,No injury,N,Unspecified,No Injury,No injury,Apr,1864,No Injury,Unspecified
+South Africa,M,26,3.2 m [10.5'] shark caught 9 days later contained human remains thought to be those of Canham,N,Unspecified,Uncertain,Unknown,Feb,1863,Uncertain,Unspecified
+Spain,M,26,Possible drowning and scavenging,N,Unspecified,Uncertain,Uncertain,Aug,1862,Uncertain,Unspecified
+USA,M,26,Thought to have been taken by a shark/s. Bodies not  recovered,N,Unspecified,Uncertain,Unknown,Aug,1858,Uncertain,Unspecified
+USA,M,26,Thought to have been taken by a shark/s. Body not  recovered,N,Unspecified,Uncertain,Unknown,Aug,1858,Uncertain,Unspecified
+Australia,M,26,Shark involvement prior to death was not confirmed,Y,Unspecified,Death,Death,Dec,1852,Death,Unspecified
+Atlantic Ocean,F,1,Death preceded shark involvement,Y,Unspecified,Death,Death,Jul,1952,Death,Unspecified
+Australia,M,26,Torso bitten but may have been postmortem,N,Torso Injury,Uncertain,Minor injury,Jan,1849,Uncertain,Torso Injury
+USA,M,26,Human remains recovered from 4.9 m shark,N,Unspecified,Uncertain,Unknown,Jul,1848,Uncertain,Unspecified
+Australia,M,26,"""Drowned, 2 days later his head was bitten off by a shark""",N,Head/Face Injury,Uncertain,Minor injury,Nov,1839,Uncertain,Head/Face Injury
+Spain,M,26,No injury / No attack,N,Unspecified,No Injury,No injury,Jul,1819,No Injury,Unspecified
+Norway,M,26,Probable drowning ,N,Unspecified,Uncertain,Unknown,May,1818,Death,Unspecified
+USA,M,26, human remains (male) found in shark’s gut,N,Unspecified,Uncertain,Unknown,Sep,1805,Uncertain,Unspecified
